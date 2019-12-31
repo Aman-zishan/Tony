@@ -10,6 +10,6 @@
 - know more about me.
 
 <h3>where is Tony?</h3>
-Tony is available as a chat bot in my porfolio website :eyes: https://amanzishan.me/portfolio
-
+- Tony is available as a chat bot in my porfolio website :eyes: https://amanzishan.me/portfolio
+- He is also available as a telegram Bot :happy: https://t.me/hello_aman_bot
 
