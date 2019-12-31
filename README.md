@@ -15,3 +15,5 @@
 - He is also available as a telegram Bot :sparkles: https://t.me/hello_aman_bot
 
 ### Technologies used
+
+-Tony was build using Google's Dialogflow
